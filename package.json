@@ -1,0 +1,16 @@
+{
+  "name": "coloured-logs",
+  "version": "1.0.1",
+  "description": "This package makes your console logs shine!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Console",
+    "Colour",
+    "Logging"
+  ],
+  "author": "SnakeByte",
+  "license": "MIT"
+}
